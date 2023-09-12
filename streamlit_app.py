@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Chart Of test')
 
-st.write('Hello world!')
+st.write('Test Steamlit Profile for learning')
